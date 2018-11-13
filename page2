@@ -1,0 +1,40 @@
+Pokécord Help | Pokémon Commands
+If you need more information about a specific command, type !help <command>.
+!info
+Display your selected pokémon's information.
+!select
+Select a different pokémon.
+!catch
+Catch a wild pokémon when it appears in chat.
+!pokedex
+Show your current completion of the pokédex.
+!challenges
+See your progression on current Pokécord challenges.
+!hint
+Get a hint to help you guess the wild pokémon's name.
+!nickname
+Give your pokémon a nickname.
+!duel
+Battle another user.
+!moves
+Display your pokémon's moves and movepool.
+!learn
+Teach your pokémon a move.
+!mega
+Mega evolve your pokémon.
+!release
+Release pokémon back into the wild. (Confirmation Needed)
+!pokemon
+Display a list of the pokémon you own.
+!fav
+Display a list of your favourite pokémon you own.
+!addfav
+Add a pokémon to your list of favourites.
+!removefav
+Remove a pokémon from your list of favourites.
+!dropitem
+Drop the item your pokémon is currently holding.
+!moveitem
+Give the item your pokémon is currently holding to another of your pokémon.
+!xp
+Display your active XP booster.
