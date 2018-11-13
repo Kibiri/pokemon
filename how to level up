@@ -1,5 +1,12 @@
-
+                                                          LEVELING UP
 
 Nhận kinh nghiệm thông qua chat-chit, nếu sử dụng bất kì hình thức gian lận nào bằng việc spam, autobot,... sẽ bị tự động phát 
 hiện và khóa tài khoản.
+Duel ( đánh nhau với người chơi khác) sẽ cho lượng kinh nghiệm không tưởng! Let's give a try.
 
+                                                            SKILLS
+                                                            
+Commands:
+  - !moves : Hiển thị các kĩ năng mà pokemon có thể học được
+  - !replace : Thay thế với kĩ năng vừa học
+  
