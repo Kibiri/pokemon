@@ -8,8 +8,8 @@ CN   : player vs admin <(")
 
 Mỗi người đc cầm theo nhiều nhất 6 pokemon vào giải. Mang ít ăn counter + bắt bài ráng chịu <(").
 
-Một trận 1vs1 gồm 3 turn, sau mỗi turn không được sử dụng pokemon cũ. Thắng mỗi turn đem lại cho người chơi 3 điểm và 1 điểm 
-cho người thua trận.
+Một trận 1vs1 gồm 3 turn, sau một turn thua không được sử dụng pokemon cũ ( đánh thua coi như pokemon bị loại khỏi trận). Mỗi turn đem 
+lại cho người thắng 3 điểm và 1 điểm cho người thua trận.
 
 Để công bằng, mỗi người sẽ đánh với tất cả người chơi khác, sau đó tổng kết ai là người có điểm nhiều nhất sẽ được top 1.
 Nếu có nhiều hơn 1 người có top 1 sẽ đánh tiếp như trên.
