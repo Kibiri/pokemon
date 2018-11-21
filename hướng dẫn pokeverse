@@ -1,0 +1,38 @@
+--commands trang 1: 
+
+.help
+List the bot's commands.
+.season / .ss | .challenges / .ch
+Season Pass commands. You can find more info about the Season Pass here: http://www.poke-verse.com/seasons
+.profile / .gold
+Displays your profile / .gold for only your gold.
+.daily
+Get 6000+ Gold every day!
+.invite
+Get an invite to the bot's official server!
+.bot
+Displays info about the bot!
+.serverinfo
+Displays info about the server!
+.user [@User]
+Shows info about the user!
+.gamble [Amount]
+Gamble Gold!
+.lotto
+Type the command for more info on Pokéverse Lotto!
+.pay [@User] [Amount] -- cho tiền ng chơi khác.
+Give a user Gold! 
+.payr [@User] [Amount] 
+Give a user Redeems!
+.google [Input] -- đứa nào làm biếng lên web xài cái này .
+let me google that for you!
+.say [Input] 
+Make the bot replay what you say!
+.rand [Max]
+Generate a random number between 0 to your input!
+.randp [0-2]
+Posts a random Pokemon!
+.randr [0-2]
+Posts a random rare Pokemon!
+.resetaccount
+Type this command to get the full command which will reset your account.
